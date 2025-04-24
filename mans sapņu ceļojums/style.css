@@ -1,0 +1,16 @@
+
+.galvene {
+    position: static;
+    top: 0;
+    width: 100%;
+    background-color: #aad5fccf;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    }
+    .nav {
+        background-color: #6a6a8a;
+        padding: 1rem;
+        display: flex;
+        justify-content: center;
+        }
